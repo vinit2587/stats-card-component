@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/vinit2587/stats-card-component)
+- Live Site URL: (https://vinit2587.github.io/stats-card-component/)
 
 ## My process
 
@@ -46,4 +46,4 @@ This project helped me learn the grid and flexbox properties of CSS and apply th
 The topics that I would want to focus on in the next projects would be the layout and the alignment of a card component and matching the product to the design as accurately as possible.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@vinit2587](https://www.frontendmentor.io/profile/vinit2587)
