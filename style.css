@@ -7,8 +7,8 @@ body{
 }
 
 .container{
-    max-width: 800px;
-    max-height: 400px;
+    max-width: 850px;
+    max-height: 344px;
     margin: auto;
     margin-top: 20vh;
     width: inherit;
@@ -21,6 +21,7 @@ body{
     border-bottom-left-radius: 10px;
     border-top-left-radius: 10px;
     padding: 35px;
+    align-items: center;
 }
 
 .content{
@@ -40,12 +41,15 @@ b{
 .main-paragraph{
     color: hsla(0, 0%, 100%, 0.75);
     font-size: 15px;
+    padding-right: 35px;
 }
 
 .stats{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    letter-spacing: 1px;
+    padding-right: 45px;
 }
 
 .companies{
@@ -83,10 +87,20 @@ b{
 
 .bg-img{
     max-width: 400px;
-    max-height: 400px;
+    min-height: 344px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
-    filter: hue-rotate(180deg);
-    -webkit-filter: hue-rotate(180deg);
+    opacity: .5;
 }
+
+.img-overlay{
+    width: 400px;
+    height: 344px;
+    position: absolute;
+    top: 10;
+    background-color: hsl(277, 81%, 47%);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
 
